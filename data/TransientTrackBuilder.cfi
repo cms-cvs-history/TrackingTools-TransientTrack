@@ -1,5 +1,5 @@
 	include "Geometry/CommonDetUnit/data/globalTrackingGeometry.cfi"
-	include "Geometry/CMSCommonData/data/cmsIdealGeometryXML.cfi"
+	include "Geometry/CMSCommonData/data/cmsIdealGeometryXML.cff"
 
 	es_module = TransientTrackBuilderESProducer {
         	string ComponentName = "TransientTrackBuilder"
